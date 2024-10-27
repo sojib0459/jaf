@@ -1,0 +1,4 @@
+Sitemap: http://_dc-mx.61e98e14f2d2.hatsandco.co.uk/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: 
